@@ -194,7 +194,7 @@ if [ "$opt_sync" -eq 1 ]; then
     echo -e "$ROUGE Fetching latest sources $NORMAL"
     
     # Remove roomservice.xml in folder
-        file=roomservice*.xml
+        file=tipsy_manifest*.xml
         cd $home/.repo/local_manifests/
 
             if [ -f $file ]; then
@@ -234,4 +234,4 @@ lunch "tipsy_$device-userdebug"
 
 echo -e "$ROUGE Starting compilation: $BLEU Building TipsyOS $device $NORMAL"
     echo ""
-    make bacon -j"$opt_jobs"
+    make tipsy -j"$opt_jobs"
