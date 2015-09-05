@@ -126,7 +126,7 @@ while getopts "b:c:d:j:k:o:s:" opt; do
 done
 
 shift $((OPTIND-1))
-if [ "$#" -ne 2 ]; then
+if [ "$#" -ne 1 ]; then
     howto
 fi
 device="$1"
