@@ -17,6 +17,6 @@
 <!--Devices commons-->
   <project path="device/sony/shinano-common" name="TipsyOs-Devices/device_sony_shinano-common" remote="github" revision="lp5.1" />
 <!--Kernels-->
-   <project path="kernel/sony/msm8974" name="Myself5/android_kernel_sony_msm8974" remote="github" revision="cm-12.1" />
+   <project path="kernel/sony/msm8974" name="XperiaDevZ/kernel_sony_msm8974" remote="github" revision="lp5.1" />
     
 </manifest>
