@@ -9,7 +9,7 @@
   <project path="device/sony/sirius" name="TipsyOs-Devices/device_sony_sirius" remote="github" revision="lp5.1" />
   <project path="device/sony/z3" name="TipsyOs-Devices/device_sony_z3" remote="github" revision="server" />
   <project path="device/sony/z3c" name="TipsyOs-Devices/device_sony_z3c" remote="github" revision="lp5.1" />
-  <project path="device/sony/pollux_windy" name="TipsyOs-Devices/device_sony_pollux_windy" remote="github" revision="lp5.1" />
+  <project path="device/sony/pollux_windy" name="TipsyOs-Devices/device_sony_pollux_windy" remote="github" revision="server" />
 <!--Misc needs-->
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-12.1" />
   <project path="device/sony/msm8960-common" name="TipsyOs-Devices/device_sony_msm8960-common" remote="github" revision="lp5.1" />
