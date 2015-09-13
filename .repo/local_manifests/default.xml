@@ -2,7 +2,8 @@
 <manifest>
  
 <!--My removed/needed stuff -->
-  
+  <remove-project name="SlimRoms/bootable_recovery" />
+  <project path="bootable/recovery" name="XperiaMultiROM/android_bootable_recovery" remote="github" revision="master" />
 <!--Vendors-->
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-12.1" />
 <!--Devices-->
