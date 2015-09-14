@@ -6,11 +6,13 @@
   <project path="bootable/recovery" name="XperiaMultiROM/android_bootable_recovery" remote="github" revision="master" /> -->
 <!--Vendors-->
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-12.1" />
+  <project path="vendor/google" name="TheMuppets/proprietary_vendor_google" remote="github" revision="cm-12.1" />
 <!--Devices-->
   <project path="device/sony/sirius" name="TipsyOs-Devices/device_sony_sirius" remote="github" revision="lp5.1" />
   <project path="device/sony/z3" name="TipsyOs-Devices/device_sony_z3" remote="github" revision="server" />
   <project path="device/sony/z3c" name="TipsyOs-Devices/device_sony_z3c" remote="github" revision="lp5.1" />
   <project path="device/sony/pollux_windy" name="TipsyOs-Devices/device_sony_pollux_windy" remote="github" revision="server" />
+  <project path="device/google/sprout4" name="akhinarang/device_google_sprout" remote="github" revision="teepsee-oess" />
 <!--Misc needs-->
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-12.1" />
   <project path="device/sony/msm8960-common" name="TipsyOs-Devices/device_sony_msm8960-common" remote="github" revision="lp5.1" />
@@ -20,9 +22,11 @@
   <project path="device/sony/fusion3-common" name="Alx31/device_sony_fusion3-common" remote="github" revision="slimroms" />
   <project path="device/sony/shinano-common" name="TipsyOs-Devices/device_sony_shinano-common" remote="github" revision="lp5.1" />
   <project path="device/sony/pollux-common" name="TipsyOs-Devices/device_sony_pollux-common" remote="github" revision="lp5.1" />
+  <project path="device/google/sprout-common" name="UberSlim/device_google_sprout-common" remote="github" revision="lp5.1" />
 <!--Kernels-->
   <project path="kernel/sony/apq8064" name="CyanogenMod/android_kernel_sony_apq8064" remote="github" revision="cm-12.1" />
   <project path="kernel/sony/msm8974" name="XperiaDevZ/kernel_sony_msm8974" remote="github" revision="lp5.1" />
+  <project path="kernel/mediatek/sprout" name="akhilnarang/android_kernel_mediatek_sprout" remote="github" revision="tipsy" />
   <!--Sony Sensors-->
   <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-12.1" />
 
