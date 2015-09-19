@@ -8,8 +8,6 @@
   <project name="Myself5/multirom" path="system/extras/multirom" remote="github" revision="old"/>
   <project name="Tasssadar/multirom_adbd" path="system/extras/multirom/adbd" remote="github" revision="master"/>
   <project name="Myself5/kexec-tools" path="system/extras/multirom/kexec-tools" remote="github" revision="master"/> -->
-  <remove-project name="frameworks_base" />
-  <project path="frameworks/base" name="frameworks_base" remote="to" revision="a013ba288f9c078560f9d1d2f2cd15ec34b567ee" />
 
 <!--Vendors-->
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-12.1" />
