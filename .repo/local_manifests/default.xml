@@ -11,11 +11,14 @@
 
 <!--Vendors-->
   <project path="vendor/sony" name="TheMuppets/proprietary_vendor_sony" remote="github" revision="cm-12.1" />
+  <project path="vendor/broadcom" name="TheMuppets/proprietary_vendor_broadcom" remote="github" revision="cm-12.1" />  
+  <project path="vendor/lge" name="TheMuppets/proprietary_vendor_lge" remote="github" revision="cm-12.1" />
 <!--Devices-->
   <project path="device/sony/sirius" name="TipsyOs-Devices/device_sony_sirius" remote="github" revision="lp5.1" />
   <project path="device/sony/z3" name="TipsyOs-Devices/device_sony_z3" remote="github" revision="server" />
   <project path="device/sony/z3c" name="TipsyOs-Devices/device_sony_z3c" remote="github" revision="lp5.1" />
   <project path="device/sony/pollux_windy" name="TipsyOs-Devices/device_sony_pollux_windy" remote="github" revision="server" />
+  <project path="device/lge/hammerhead" name="Tesla-Redux-Devices/device_lge_hammerhead" remote="github" revision="lp5.1" />
 <!--Misc needs-->
   <project path="device/sony/common" name="CyanogenMod/android_device_sony_common" remote="github" revision="cm-12.1" />
   <project path="device/sony/msm8960-common" name="TipsyOs-Devices/device_sony_msm8960-common" remote="github" revision="lp5.1" />
@@ -28,6 +31,7 @@
 <!--Kernels-->
   <project path="kernel/sony/apq8064" name="CyanogenMod/android_kernel_sony_apq8064" remote="github" revision="cm-12.1" />
   <project path="kernel/sony/msm8974" name="Myself5/android_kernel_sony_msm8974" remote="github" revision="cm-12.1" />
+  <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" remote="github" revision="cm-12.1" />
   <!--Sony Sensors-->
   <project path="hardware/sony/DASH" name="CyanogenMod/android_hardware_sony_DASH" remote="github" revision="cm-12.1" />
 
