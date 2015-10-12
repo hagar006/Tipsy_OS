@@ -20,7 +20,7 @@
   <project path="device/sony/z3" name="TipsyOs-Devices/device_sony_z3" remote="github" revision="lp5.1" />
   <project path="device/sony/z3c" name="TipsyOs-Devices/device_sony_z3c" remote="github" revision="lp5.1" />
   <project path="device/sony/pollux_windy" name="TipsyOs-Devices/device_sony_pollux_windy" remote="github" revision="server" />
-  <project path="device/lge/hammerhead" name="Tesla-Redux-Devices/device_lge_hammerhead" remote="github" revision="lp5.1" />
+  <project path="device/lge/hammerhead" name="TipsyOs-Devices/device_lge_hammerhead" remote="github" revision="lp5.1" />
   <project path="device/htc/m8" name="Tesla-Redux-Devices/device_htc_m8" remote="github" revision="lp5.1" />
   <project path="device/samsung/trltetmo" name="Tesla-Redux-Devices/device_samsung_trltetmo" remote="github" revision="lp5.1" />
   <project path="device/samsung/trltespr" name="Tesla-Redux-Devices/device_samsung_trltespr" remote="github" revision="lp5.1" />
