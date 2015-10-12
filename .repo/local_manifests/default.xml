@@ -20,7 +20,7 @@
   <project path="device/sony/z3" name="TipsyOs-Devices/device_sony_z3" remote="github" revision="lp5.1" />
   <project path="device/sony/z3c" name="TipsyOs-Devices/device_sony_z3c" remote="github" revision="lp5.1" />
   <project path="device/sony/pollux_windy" name="TipsyOs-Devices/device_sony_pollux_windy" remote="github" revision="server" />
-  <project path="device/lge/hammerhead" name="CyanogenMod/device_lge_hammerhead" remote="github" revision="cm-12.1 />
+  <project path="device/lge/hammerhead" name="TipsyOs-Devices/device_lge_hammerhead" remote="github" revision="lp5.1" />
   <project path="device/htc/m8" name="TipsyOs-Devices/device_htc_m8" remote="github" revision="lp5.1" />
   <project path="device/samsung/trltetmo" name="TipsyOs-Devices/device_samsung_trltetmo" remote="github" revision="lp5.1" />
   <project path="device/samsung/trltespr" name="TipsyOs-Devices/device_samsung_trltespr" remote="github" revision="lp5.1" />
@@ -40,7 +40,7 @@
 <!--Kernels
   <project path="kernel/sony/apq8064" name="CyanogenMod/android_kernel_sony_apq8064" remote="github" revision="cm-12.1" />
   <project path="kernel/sony/msm8974" name="XperiaDevZ/kernel_sony_msm8974" remote="github" revision="lp5.1" />
-  <project path="kernel/lge/hammerhead" name="CyanogenMod/android_kernel_lge_hammerhead" remote="github" revision="cm-12.1" />
+  <project path="kernel/lge/hammerhead" name="TipsyOs-Devices/kernel_lge_hammerhead" remote="github" revision="lp5.1" />
   <project path="kernel/htc/msm8974" name="CyanogenMod/android_kernel_htc_msm8974" remote="github" revision="cm-12.1" />
   <project path="kernel/samsung/trlte" name="TipsyOs-Devices/android_kernel_samsung_trlte" remote="github" revision="lp5.1" />-->
   <!--Sony Sensors
